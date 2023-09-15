@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Teams see more for Chrome",
-  "version": "1.1",
+  "version": "1.2",
   "icons": {
     "128": "tsm-logo-128.png",
     "48": "tsm-logo-48.png",
